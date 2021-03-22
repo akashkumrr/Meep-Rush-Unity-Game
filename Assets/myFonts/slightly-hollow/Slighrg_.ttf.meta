@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 40e65e712cd06fd4f924d60a2d3a1285
+timeCreated: 1502873793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Slightly Hollow
+  fontNames:
+  - Slightly Hollow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

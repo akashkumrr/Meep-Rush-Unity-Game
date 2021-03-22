@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be5f4dcd81142aa449db019392de0daf
+timeCreated: 1502873821
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Donree's Claws
+  fontNames:
+  - Donree's Claws
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

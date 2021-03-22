@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f1611da6249d19a4a813a45f8faa522d
+timeCreated: 1502873830
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kredit
+  fontNames:
+  - Kredit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 745477b6b8dd2c545b44e2385493e11d, type: 3}
+  - {fileID: 12800000, guid: 8ecba92d92ec9864a89c071997505afa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

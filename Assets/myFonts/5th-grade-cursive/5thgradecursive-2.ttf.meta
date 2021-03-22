@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 99739c5e56be2c74b97861f9a051850f
+timeCreated: 1502873808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 5th Grade Cursive
+  fontNames:
+  - 5th Grade Cursive
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 14c1f241babf3b744ad5db508efeb781, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

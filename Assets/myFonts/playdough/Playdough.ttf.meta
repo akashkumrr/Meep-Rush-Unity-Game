@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1971a91063949a446b5e0b50d6b72608
+timeCreated: 1502873786
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Playdough
+  fontNames:
+  - Playdough
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

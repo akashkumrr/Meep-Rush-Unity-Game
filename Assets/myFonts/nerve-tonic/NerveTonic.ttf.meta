@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3a681f06555d28b469fa747a48611286
+timeCreated: 1502873792
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nerve Tonic
+  fontNames:
+  - Nerve Tonic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

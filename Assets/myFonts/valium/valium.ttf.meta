@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d91cd66d714be1649a9a4e8931cf1d16
+timeCreated: 1502873825
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Valium
+  fontNames:
+  - Valium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

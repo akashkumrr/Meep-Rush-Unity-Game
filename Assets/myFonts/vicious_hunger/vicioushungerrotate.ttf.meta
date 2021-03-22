@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e115c401fe0178641be41514df8a2763
+timeCreated: 1502873827
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vicious Hunger Rotated
+  fontNames:
+  - Vicious Hunger Rotated
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f1c378f77575224b9b671399701462e
+timeCreated: 1502873809
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jo_wrote_a_lovesong
+  fontNames:
+  - Jo_wrote_a_lovesong
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4517529432f9a654382951ad8b1e1f12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

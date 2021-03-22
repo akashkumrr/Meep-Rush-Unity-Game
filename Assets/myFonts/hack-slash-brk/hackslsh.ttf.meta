@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 207411366c9eb6643bcc5e00f1666a8c
+timeCreated: 1502873788
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hack & Slash (BRK)
+  fontNames:
+  - Hack & Slash (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

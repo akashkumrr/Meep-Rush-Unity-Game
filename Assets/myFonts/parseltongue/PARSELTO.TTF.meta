@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0eb0386a207fcd84d9d6933eecd8470e
+timeCreated: 1502873782
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Parseltongue
+  fontNames:
+  - Parseltongue
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

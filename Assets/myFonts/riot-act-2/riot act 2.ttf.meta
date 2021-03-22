@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 780da9185c9098b42b720d0a3d33ba41
+timeCreated: 1502873801
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Riot Act Two
+  fontNames:
+  - Riot Act Two
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

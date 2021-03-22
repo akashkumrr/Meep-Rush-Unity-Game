@@ -1,0 +1,220 @@
+11/5/18
+
+-see why scene 6 ortho is not working properly.
+-assgin platDesPoint and soundmanager(in world sfx) in gamemanager.
+-assign soundManager in mission manager
+
+14/5/18
+_____WORKING ON 'FULL GENERATION COINS MISSION 8 ORTHO 1'_________
+
+-also assign death music and complete music in world sfx in all scenes.
+-also platforms in platform generator script.( first copy objects from hirearchy 
+ from "FGC mission 8 ORTHO 1" scene and then paste in scenes so that you don't
+ have to assign and make new gameobjs and repeat the same thing)
+
+### NOTE ###
+- what a great idea of slowering the speed powerup now player have to deicde
+  whether or not to pick it up becuse it slows speed every time hindering the
+  jumping length.
+  ( we know that speed increases on completeing speed milestones so no need
+    to make a powerup to increse the speed )
+
+
+-----the level works fine-----
+
+
+15/5/18 
+-  in the gamemanager script 'netActive' BOOL variable is decalred and in 
+   RestartGame() function if net is active then show ad fuction and then 
+   teleport.
+
+- adding a starting perk ---- giving pwrup at starting using AD
+   in mission manager script 
+
+- in mission manager when mission complete
+  thePC.plyGameObj.setactive(false);  // to avoid falling into killbox also mass is set to 0
+
+- assign ply game obj in playerController script 
+
+### NOTE ###
+
+ - add a starting perk( sometimes free someties using AD)
+
+ - also add a buy menu for perk for that mission only (least priorty)
+ - change main menu layout
+ - doubling the coin using AD
+ - daily rewards
+
+
+ 26/5/18
+
+ _____WORKING ON 'FULL GENERATION COINS MISSION 8 ORTHO 1'_________
+
+ -  giving no. of lives to the player i.e, even if the net is not active
+    then also SEND THE PLAYER BACK TO THE POSITION.
+
+ -  add some sprites to the ui of no of lives
+
+ *** add particle system and various sounds to improve looks of the game
+
+ +++ coin threshold is set to 0 for testing purpose
+
+ +++ change (increse FOV of camera and also canhge size of bg images IT WILL MAKE EASIER FOR THE PLAYER TO JUDGE THE JUMP)
+      changed  from 5 to 7.27
+
+
+
+27/5/18
+
+-  change mission obj screen 
+
+*** telepoertation and player controller used to sloww time when teeportted
+
+21/6/18
+
+- add a mode select button where the player can choose different levels 					[---DONE---]
+- add a dupilicate obj mission screen and add a perk menu in it 							[---DONE---]
+     -and write code to randomise perk obj scr and deactivate default obj mission screen.	[---DONE---]
+     - write AD code to give a random powerup or life when pressed ad perk button
+
+
+13/08/18
+
+- in loading mission levels load plain objective screen sometimes i.e. without PERK AD BUTTON       ----------------  in mission manager this is done already. I GUESS?!
+- in game manager script ad is shown every time when player dies SO it should ask about watching an AD TO REVIVE from the gamer
+- show banner ad at times without asking in non mission levels and as well as in mission levels
+- in NON- mission levels ask to show AD for DOUBLING or giving reward
+
+
+14/08/2018
+
+%%%%%%%%%%  PLATFORMS CONVENTIONS in missions
+
+- GRAVITY PLATFORMS - ICE B PLATS 
+- NORMAL PLATFORMS - CONCRETE PLAT FORMS
+- ROPED PLATFORMS - GREEN PLAT FORMS
+
+
+%%%%%%%%%% MISSION WISE PLATFORMS
+
+-from mission 1 to 5 - GAMER CAN GET either normal platform or roped platform 
+-from 6th mission onwards enable gravity platforms also
+
+%%%%%%%%%% in NON-missions levels make use of others platforms too and change platforms every time when player dies - like concrete brown, white brown
+
+- you have to make another script for above I GUESS!?
+
+%%%%%%%%%%% UNLOCK POWERUPS LEVEL wise and in objective screen teel gamer that they will unlock a powerup if they completed this level 
+
+
+- make transition for jet pack
+
+
+19/08/18
+
+-  +++type 69 powerup is slowing down powerup
+-  decrease poerup frequey according to total unlocked powerup as one type of powerup spawns almost everytime when total unlocked powerups is 1 as powerupselector=1 i.e. only that type of powerup
+
+
+
+21/08/18
+
+- player mass changed from 1 to 20
+- roped platforms rigidbody characteristics changed
+
+###### HIGHER THE SORTING LAYER THE MORE FRONT IT GETS
+
+- sounds for 
+   1. death powerup up
+   2. Jet powerup
+   3. full coin 
+   4. magnet
+   5. slowering powerup
+
+
+11/09/2018
+
+- lock buying players with no of missions completed
+
+16/09/2018
+
+- in night mode make a separate script to spawn torch and the torch game object wwill have script that will set active for a particular amount of time. [[ DONE ]]
+
+01/11/2018
+
+- gameManager edit/add sceneNames of 20 mission scenes
+- also the next mission button( on mission complete screen) has level selector edit/add the array of scene names
+
+   YOU've to do the above for all 20 mission scenes which are in the game.';
+
+
+06/nov/2018
+
+- making anmation for the heart reviving 
+  i did as in bar animation in perk ad show but it wasn't working';
+  so i found the ANIMATOR compenet associated with that gameobject( in ur case the heart ) and then assinged that animation there;
+
+
+07/nov/2018
+
+- gravity , roped , night and MISSIONs
+
+15/nov/2018
+
+change variables of coion genneration and poerups as player uses different character
+
+18/nov/2018
+
+sad music from kevin macleod 
+
+
+08 december 2018
+
+these things done :
+
+game manager 
+made a new script 'ad prompt screen';
+made some changes in revive ad script;
+
+
+and things needed to be done :
+
+make bg music length<1.30 min
+
+19 dec 18
+
+
+Mission Manager - Delete it its of no use in endless levels
+
+TIP to yourself - attach script to gameobject who has button as it children as you can copy and paste it
+
+
+
+06 Jan 2019
+
+Error when player dies and presses button to watch ad but there is limeted connection.
+
+
+12 jan 19 
+
+cam size changed from 7.27 to 6.9
+
+15 jan 19
+scrapped the ad.failed code in adrevive show 
+
+revive ad show in case ad loading failed then do nothing
+
+20 jan 19
+
+
+increase ground check radius in ply controller IT FIXS double jump
+an incerse bg music volume 
+in missions increse no of coins in objective to about avg of 50 70 coins
+also see a fix for ads when not loaded
+remove copyright signs from endless level
+also in jet pack spwan the teleport at equal distance
+reduce the spawn player slowmo time 
+
+make a restart function to intialize things like 
+camera size=6.9f
+time.timescale=1;

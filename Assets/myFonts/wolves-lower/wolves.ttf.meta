@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6d0a21c0b87b17c48a3c744ed2e94a78
+timeCreated: 1502873800
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wolves, Lower
+  fontNames:
+  - Wolves, Lower
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

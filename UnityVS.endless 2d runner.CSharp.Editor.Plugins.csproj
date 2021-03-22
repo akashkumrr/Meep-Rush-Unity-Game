@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B99F4B1-BB3A-3160-580D-EE2B2E7607D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace></RootNamespace>
+    <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>EditorPlugins:7</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.6.1f1</UnityVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_1;UNITY_5_6;UNITY_5;UNITY_ADS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_1;UNITY_5_6;UNITY_5;UNITY_ADS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;CROSS_PLATFORM_INPUT;MOBILE_INPUT;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\UnityAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEditor.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TreeEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.TreeEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEditor.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.VR">
+      <HintPath>Library\UnityAssemblies\UnityEditor.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.OSXStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>Assets\Assets\UnityVS\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Messaging">
+      <HintPath>Assets\Assets\UnityVS\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityVS.VersionSpecific">
+      <HintPath>Assets\Assets\UnityVS\Editor\UnityVS.VersionSpecific.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\Demigiant\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\Demigiant\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\Demigiant\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="JMOAssets">
+      <HintPath>Assets\JMO Assets\Editor\JMOAssets.dll</HintPath>
+    </Reference>
+    <Reference Include="JMOAssets_CartoonFXFreeWelcome">
+      <HintPath>Assets\JMO Assets\Editor\JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-1.0.55.56.0b11">
+      <HintPath>Assets\TextMesh Pro\Plugins\TextMeshPro-1.0.55.56.0b11.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-1.0.55.56.0b11-Editor">
+      <HintPath>Assets\TextMesh Pro\Plugins\Editor\TextMeshPro-1.0.55.56.0b11-Editor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="UnityVS.endless 2d runner.CSharp.Plugins.csproj">
+      <Project>{71BA6D36-C74D-5A0B-7E9A-ED95657FC8A4}</Project>
+      <Name>UnityVS.endless 2d runner.CSharp.Plugins</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityVS.endless 2d runner.CSharp.csproj">
+      <Project>{A1F4D7A5-B78F-0486-CC5D-0D1F84BE317D}</Project>
+      <Name>UnityVS.endless 2d runner.CSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\#1ProblemsAndBugs\BUGS.txt" />
+    <None Include="Assets\#Scenes\MISSIONS SCENES\MISSION 1.txt" />
+    <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
+    <None Include="Assets\Demigiant\DOTween\DOTween43.xml" />
+    <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
+    <None Include="Assets\Demigiant\DOTween\DOTween50.xml" />
+    <None Include="Assets\Demigiant\DOTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\Demigiant\DOTween\readme.txt" />
+    <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
+    <None Include="Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
+    <None Include="Assets\JMO Assets\!JMO Assets Readme.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+    <None Include="Assets\Pixel Font - Tripfive\_README.txt" />
+    <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+    <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
+    <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
+    <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
+    <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
+    <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
+    <None Include="Assets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
+    <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\FXAA.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
+    <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+    <None Include="Assets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
+    <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Readme.txt" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+    <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\Anton OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Fonts\Bangers - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Fonts\Oswald-Bold - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\myFonts\3-prong-tree\3PRONG.TXT" />
+    <None Include="Assets\myFonts\Crysis 2 and 3 key generator\How To Successfully Download Your Activation Code.txt" />
+    <None Include="Assets\myFonts\Crysis 2 and 3 key generator\Read Me!!!!.txt" />
+    <None Include="Assets\myFonts\a-charming-font\GemText.txt" />
+    <None Include="Assets\myFonts\abscissa\ReadMe.txt" />
+    <None Include="Assets\myFonts\acid-reflux-brk\acidreflux.txt" />
+    <None Include="Assets\myFonts\adine-kirnberg\1001fonts-adine-kirnberg-eula.txt" />
+    <None Include="Assets\myFonts\adinekirnberg-script\1001fonts-adinekirnberg-script-eula.txt" />
+    <None Include="Assets\myFonts\adler\1001fonts-adler-eula.txt" />
+    <None Include="Assets\myFonts\aenigma-scrawl-brk\aenigmascrawl.txt" />
+    <None Include="Assets\myFonts\aftermath-brk\aftermath.txt" />
+    <None Include="Assets\myFonts\airstream\1001fonts-airstream-eula.txt" />
+    <None Include="Assets\myFonts\albumme-smooth\1001fonts-albumme-smooth-eula.txt" />
+    <None Include="Assets\myFonts\allura\OFL.txt" />
+    <None Include="Assets\myFonts\alpha-dance\AlphaDance.txt" />
+    <None Include="Assets\myFonts\angstridden\license.txt" />
+    <None Include="Assets\myFonts\anke-calligraphic-fg\AnkeCalligraphic 2.00.txt" />
+    <None Include="Assets\myFonts\anke-print\anke-art-AnkePrint-README.txt" />
+    <None Include="Assets\myFonts\another\Another.txt" />
+    <None Include="Assets\myFonts\antsypants\1001fonts-antsypants-eula.txt" />
+    <None Include="Assets\myFonts\architext\1001fonts-architext-eula.txt" />
+    <None Include="Assets\myFonts\arthritis-brk\arthritis.txt" />
+    <None Include="Assets\myFonts\automania\1001fonts-automania-eula.txt" />
+    <None Include="Assets\myFonts\babelfish\readme.txt" />
+    <None Include="Assets\myFonts\bad-mofo\1001fonts-bad-mofo-eula.txt" />
+    <None Include="Assets\myFonts\bad-mofo\Bad Mofo\README.txt" />
+    <None Include="Assets\myFonts\barbed-ink\1001fonts-barbed-ink-eula.txt" />
+    <None Include="Assets\myFonts\bazaronite\readme.txt" />
+    <None Include="Assets\myFonts\benegraphic\ReadMe.txt" />
+    <None Include="Assets\myFonts\berkel\1001fonts-berkel-eula.txt" />
+    <None Include="Assets\myFonts\beta-dance\BetaDance.txt" />
+    <None Include="Assets\myFonts\beyond-wonderland\1001fonts-beyond-wonderland-eula.txt" />
+    <None Include="Assets\myFonts\beyond-wonderland\Beyond Wonderland\README.txt" />
+    <None Include="Assets\myFonts\bloktype\1001fonts-bloktype-eula.txt" />
+    <None Include="Assets\myFonts\blzee\dontreadme.txt" />
+    <None Include="Assets\myFonts\bolonewt\Bolonewt_Win-TT\README.TXT" />
+    <None Include="Assets\myFonts\bolt-cutter-nasty\license.txt" />
+    <None Include="Assets\myFonts\boyzrgross\1001fonts-boyzrgross-eula.txt" />
+    <None Include="Assets\myFonts\bradley-gratis\Bradley Gratis.txt" />
+    <None Include="Assets\myFonts\brock-script\1001fonts-brock-script-eula.txt" />
+    <None Include="Assets\myFonts\bryana-aningsih-shara\Read Me.txt" />
+    <None Include="Assets\myFonts\bullskrit-nfi\N License.txt" />
+    <None Include="Assets\myFonts\butcherman\OFL.txt" />
+    <None Include="Assets\myFonts\captainswabby\1001fonts-captainswabby-eula.txt" />
+    <None Include="Assets\myFonts\carnivalee-freakshow\1001fonts-carnivalee-freakshow-eula.txt" />
+    <None Include="Assets\myFonts\carnivalee-freakshow\Carnevalee Freakshow\README.txt" />
+    <None Include="Assets\myFonts\catharsis-macchiato\Catharsis Macchiato PC\readme.txt" />
+    <None Include="Assets\myFonts\catharsis-requiem\Catharsis Requiem PC\readme.txt" />
+    <None Include="Assets\myFonts\cella\1001fonts-cella-eula.txt" />
+    <None Include="Assets\myFonts\cenobyte\AARCS\Font\ReadMeOrI&apos;llTearYourSoulApart.txt" />
+    <None Include="Assets\myFonts\channel-tuning\channelt\ORDERFRM.TXT" />
+    <None Include="Assets\myFonts\channel-tuning\channelt\channel.txt" />
+    <None Include="Assets\myFonts\chlorinar\1001fonts-chlorinar-eula.txt" />
+    <None Include="Assets\myFonts\chlorinar\CHLORINR.TXT" />
+    <None Include="Assets\myFonts\christmas-on-crack\XtraStuf.mac\parallaxreadme!.txt" />
+    <None Include="Assets\myFonts\christmas-on-crack\parallaxreadme!.txt" />
+    <None Include="Assets\myFonts\clawless\1001fonts-clawless-eula.txt" />
+    <None Include="Assets\myFonts\clawless\clawless.txt" />
+    <None Include="Assets\myFonts\clementine-sketch\clementine sketch\IMPORTANT, PLEASE READ.txt" />
+    <None Include="Assets\myFonts\clementine-sketch_2\clementine sketch\IMPORTANT, PLEASE READ.txt" />
+    <None Include="Assets\myFonts\cmon-near\CMONNEAR.TXT" />
+    <None Include="Assets\myFonts\cocaine-sans\1001fonts-cocaine-sans-eula.txt" />
+    <None Include="Assets\myFonts\cocaine-sans\Cocaine sans\README.TXT" />
+    <None Include="Assets\myFonts\codon\readme.txt" />
+    <None Include="Assets\myFonts\colophon-dbz\readme.txt" />
+    <None Include="Assets\myFonts\comic-andy\1001fonts-comic-andy-eula.txt" />
+    <None Include="Assets\myFonts\conformity\Conformity.txt" />
+    <None Include="Assets\myFonts\creatures\readme.txt" />
+    <None Include="Assets\myFonts\dark-side-brk\darkside.txt" />
+    <None Include="Assets\myFonts\deanna\1001fonts-deanna-eula.txt" />
+    <None Include="Assets\myFonts\deanna\Deanna\READMe.txt" />
+    <None Include="Assets\myFonts\decrepit-brk\decrepit.txt" />
+    <None Include="Assets\myFonts\digital-dream\pizzadude.dk License.txt" />
+    <None Include="Assets\myFonts\disco-3\readme.txt" />
+    <None Include="Assets\myFonts\doctorjekyll\1001fonts-doctorjekyll-eula.txt" />
+    <None Include="Assets\myFonts\domestic-manners\license.txt" />
+    <None Include="Assets\myFonts\dominatrix\1001fonts-dominatrix-eula.txt" />
+    <None Include="Assets\myFonts\donrees-claws\ReadMeOrI&apos;llClawYourEyesOut.txt" />
+    <None Include="Assets\myFonts\dpcomic\license.txt" />
+    <None Include="Assets\myFonts\edb-indians\Indians.txt" />
+    <None Include="Assets\myFonts\edb-wild-things\Wild Things.txt" />
+    <None Include="Assets\myFonts\ethopool\Ethopool by Matt Spire.txt" />
+    <None Include="Assets\myFonts\eutemia-i\1001fonts-eutemia-i-eula.txt" />
+    <None Include="Assets\myFonts\fdonkulous\dontreadme.txt" />
+    <None Include="Assets\myFonts\fiddums-family\Legal Mumbo Jumbo.txt" />
+    <None Include="Assets\myFonts\flatline\readme.txt" />
+    <None Include="Assets\myFonts\flubber\Flubber.txt" />
+    <None Include="Assets\myFonts\font-for-erin\readme.txt" />
+    <None Include="Assets\myFonts\gauss-jordan\readme.txt" />
+    <None Include="Assets\myFonts\ghastly-panic\Font1\Ghastly_Panic_Font_Info_and_ReadMe.txt" />
+    <None Include="Assets\myFonts\gooddog-cool\FH-GoodDogCool WTT\GOODDOGC.TXT" />
+    <None Include="Assets\myFonts\grotesque-brk\grotesque.txt" />
+    <None Include="Assets\myFonts\guild-of-professional-actors\readme.txt" />
+    <None Include="Assets\myFonts\gwibble\fonty.TXT" />
+    <None Include="Assets\myFonts\gypsy-curse\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt" />
+    <None Include="Assets\myFonts\hack-slash-brk\hackandslash.txt" />
+    <None Include="Assets\myFonts\halo\1001fonts-halo-eula.txt" />
+    <None Include="Assets\myFonts\haunting-attraction\Sinister Visions Fonts\Haunting Attraction Font Read Me.txt" />
+    <None Include="Assets\myFonts\headhunter\HEADHUNT.TXT" />
+    <None Include="Assets\myFonts\hectic\1001fonts-hectic-eula.txt" />
+    <None Include="Assets\myFonts\heidorn-hill\readme.txt" />
+    <None Include="Assets\myFonts\helvetidoodle-by-ed-t\New folder\hello.txt" />
+    <None Include="Assets\myFonts\hoffmanhand\ReadMe.txt" />
+    <None Include="Assets\myFonts\homoarakhn\1001fonts-homoarakhn-eula.txt" />
+    <None Include="Assets\myFonts\hothead\HOTHEAD\ORDERFRM.TXT" />
+    <None Include="Assets\myFonts\hothead\HOTHEAD\hothead.txt" />
+    <None Include="Assets\myFonts\hurryup\1001fonts-hurryup-eula.txt" />
+    <None Include="Assets\myFonts\hvd-peace\Readme.txt" />
+    <None Include="Assets\myFonts\hvd-poster\HVD_Poster_PC\Readme.txt" />
+    <None Include="Assets\myFonts\hvd-rowdy\HVD_Rowdy_PC\Readme.txt" />
+    <None Include="Assets\myFonts\i-hate-comic-sans\readme.txt" />
+    <None Include="Assets\myFonts\if\1001fonts-if-eula.txt" />
+    <None Include="Assets\myFonts\if\IF\README.txt" />
+    <None Include="Assets\myFonts\inlines\inlinesrough\read me!.txt" />
+    <None Include="Assets\myFonts\irrep\readme.txt" />
+    <None Include="Assets\myFonts\it-lives-in-the-swamp-brk\itlivesintheswamp.txt" />
+    <None Include="Assets\myFonts\james-almacen\1001fonts-james-almacen-eula.txt" />
+    <None Include="Assets\myFonts\jempolfreak\1001fonts-jempolfreak-eula.txt" />
+    <None Include="Assets\myFonts\jo-wrote-a-lovesong\readme.txt" />
+    <None Include="Assets\myFonts\jo-wrote-a-lovesong_2\readme.txt" />
+    <None Include="Assets\myFonts\jr-hand\ReadMe.txt" />
+    <None Include="Assets\myFonts\kreepy-krawly\1313\Kreepy_Krawly_Font_Info_and_ReadMe.txt" />
+    <None Include="Assets\myFonts\lexographer\readme.txt" />
+    <None Include="Assets\myFonts\lostwages\1001fonts-lostwages-eula.txt" />
+    <None Include="Assets\myFonts\lumos\readme.txt" />
+    <None Include="Assets\myFonts\lycanthrope\Lycanthrope Font Info and ReadMe.txt" />
+    <None Include="Assets\myFonts\manaspace\license.txt" />
+    <None Include="Assets\myFonts\manenschijn-02\readme.txt" />
+    <None Include="Assets\myFonts\mayhem\readme.txt" />
+    <None Include="Assets\myFonts\melanie\readme.txt" />
+    <None Include="Assets\myFonts\metal-macabre\1001fonts-metal-macabre-eula.txt" />
+    <None Include="Assets\myFonts\mistervampire\fonty.TXT" />
+    <None Include="Assets\myFonts\moria-citadel\readme.txt" />
+    <None Include="Assets\myFonts\nauvoo\ReadMe.txt" />
+    <None Include="Assets\myFonts\nekrokids\Sinister Visions Fonts\NekroKids Read Me.txt" />
+    <None Include="Assets\myFonts\neon\1001fonts-neon-eula.txt" />
+    <None Include="Assets\myFonts\nerve-tonic\readme.txt" />
+    <None Include="Assets\myFonts\nickelodeon\1001fonts-nickelodeon-eula.txt" />
+    <None Include="Assets\myFonts\nightcap\1001fonts-nightcap-eula.txt" />
+    <None Include="Assets\myFonts\ninja-naruto\readme.txt" />
+    <None Include="Assets\myFonts\octavio\readme.txt" />
+    <None Include="Assets\myFonts\ogrejuice\1001fonts-ogrejuice-eula.txt" />
+    <None Include="Assets\myFonts\onciale-phf\1001fonts-onciale-phf-eula.txt" />
+    <None Include="Assets\myFonts\one-constant\readme.txt" />
+    <None Include="Assets\myFonts\outer-sider-brk\outersider.txt" />
+    <None Include="Assets\myFonts\outofink\1001fonts-outofink-eula.txt" />
+    <None Include="Assets\myFonts\paintypaint\fonty.TXT" />
+    <None Include="Assets\myFonts\paper-cut\readme.txt" />
+    <None Include="Assets\myFonts\parseltongue\readme.txt" />
+    <None Include="Assets\myFonts\pecita\Pecita.txt" />
+    <None Include="Assets\myFonts\penguin-attack\license.txt" />
+    <None Include="Assets\myFonts\perfect-dark-brk\perfectdark.txt" />
+    <None Include="Assets\myFonts\phantom-fingers\Phantom Fingers Font Info and Read Me - Sinister Fonts.txt" />
+    <None Include="Assets\myFonts\phat-grunge-bold\1001fonts-phat-grunge-bold-eula.txt" />
+    <None Include="Assets\myFonts\playdough\readme.txt" />
+    <None Include="Assets\myFonts\precious\1001fonts-precious-eula.txt" />
+    <None Include="Assets\myFonts\projects\readme.txt" />
+    <None Include="Assets\myFonts\qarmic-sans\1001fonts-qarmic-sans-eula.txt" />
+    <None Include="Assets\myFonts\rabid-science\1001fonts-rabid-science-eula.txt" />
+    <None Include="Assets\myFonts\ravens-claws\Sinister Visions Fonts\Raven&apos;s Claws Read Me.txt" />
+    <None Include="Assets\myFonts\rebecca\XtraStuf.mac\parallaxreadme!.txt" />
+    <None Include="Assets\myFonts\rebecca\parallaxreadme!.txt" />
+    <None Include="Assets\myFonts\requiem\1001fonts-requiem-eula.txt" />
+    <None Include="Assets\myFonts\requiem\Requiem\README.txt" />
+    <None Include="Assets\myFonts\rm-almanack\license.txt" />
+    <None Include="Assets\myFonts\rm-almanack\read me.txt" />
+    <None Include="Assets\myFonts\rm-ginger\license.txt" />
+    <None Include="Assets\myFonts\rm-ginger\read me.txt" />
+    <None Include="Assets\myFonts\rm-typerighter-old\license.txt" />
+    <None Include="Assets\myFonts\rm-typerighter-old\read me.txt" />
+    <None Include="Assets\myFonts\rm-typerighter\license.txt" />
+    <None Include="Assets\myFonts\rm-typerighter\read me.txt" />
+    <None Include="Assets\myFonts\roddy\1001fonts-roddy-eula.txt" />
+    <None Include="Assets\myFonts\sabril\Sabre this.txt" />
+    <None Include="Assets\myFonts\sabril\readme.txt" />
+    <None Include="Assets\myFonts\sanctuary\downloads\Sanctuary_Font_Read_Me.txt" />
+    <None Include="Assets\myFonts\seraphim\readme.txt" />
+    <None Include="Assets\myFonts\shonen-punk\shonen-punk-readme.txt" />
+    <None Include="Assets\myFonts\sickness\1001fonts-sickness-eula.txt" />
+    <None Include="Assets\myFonts\sickness\Installation.txt" />
+    <None Include="Assets\myFonts\slightly-hollow\Slightly.txt" />
+    <None Include="Assets\myFonts\sofia\SIL Open Font License.txt" />
+    <None Include="Assets\myFonts\soucisans\1001fonts-soucisans-eula.txt" />
+    <None Include="Assets\myFonts\soul-of-holitter-alternative\1001fonts-soul-of-holitter-alternative-eula.txt" />
+    <None Include="Assets\myFonts\suwa\1001fonts-suwa-eula.txt" />
+    <None Include="Assets\myFonts\swift\readme.txt" />
+    <None Include="Assets\myFonts\technetium\readme.txt" />
+    <None Include="Assets\myFonts\tolo\readme.txt" />
+    <None Include="Assets\myFonts\tombats-four\readme.txt" />
+    <None Include="Assets\myFonts\toms-handwriting\readme.txt" />
+    <None Include="Assets\myFonts\toms-headache\readme.txt" />
+    <None Include="Assets\myFonts\tooneynoodle\1001fonts-tooneynoodle-eula.txt" />
+    <None Include="Assets\myFonts\typewriter\1001fonts-typewriter-eula.txt" />
+    <None Include="Assets\myFonts\valium\readme.txt" />
+    <None Include="Assets\myFonts\vicious_hunger\vicioushunger.txt" />
+    <None Include="Assets\myFonts\wc-roughtrad-bta\1001fonts-wc-roughtrad-bta-eula.txt" />
+    <None Include="Assets\myFonts\wc-wunderbach-rough-bta\1001fonts-wc-wunderbach-rough-bta-eula.txt" />
+    <None Include="Assets\myFonts\witching-hour\1001fonts-witching-hour-eula.txt" />
+    <None Include="Assets\myFonts\wolves-lower\readme.txt" />
+    <None Include="Assets\myFonts\yugly\fonty.TXT" />
+    <None Include="Assets\myFonts\zombie-holocaust\Fonts\Zombie_Holocaust_Font_Read_Me.txt" />
+    <None Include="Assets\myFonts\zombified\ReadMeOrI&apos;llEatYourBrain.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
+</Project>

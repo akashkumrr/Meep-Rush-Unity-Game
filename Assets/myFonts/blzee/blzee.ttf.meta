@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 95bb79d0a8d827949aa61c63fcd40de0
+timeCreated: 1502873807
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: blzee
+  fontNames:
+  - blzee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

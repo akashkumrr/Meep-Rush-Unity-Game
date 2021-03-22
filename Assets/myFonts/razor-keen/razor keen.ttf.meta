@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73395708486e6044e9b6f5832dca1ae8
+timeCreated: 1502873800
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Razor Keen
+  fontNames:
+  - Razor Keen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

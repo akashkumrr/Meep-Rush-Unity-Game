@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eb8e64428ca80f243b7f9e2c4ba83c83
+timeCreated: 1502873829
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Melanie
+  fontNames:
+  - Melanie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

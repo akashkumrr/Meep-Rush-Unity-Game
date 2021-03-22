@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fcb8daf1abafdf94898513725f495251
+timeCreated: 1502873832
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cella
+  fontNames:
+  - Cella
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 925b5dd9a2f88b74d8cc244a325639d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

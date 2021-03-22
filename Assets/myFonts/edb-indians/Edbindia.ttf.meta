@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fee323a63e9061b4e80a573b730b4701
+timeCreated: 1502873833
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EDB Indians
+  fontNames:
+  - EDB Indians
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

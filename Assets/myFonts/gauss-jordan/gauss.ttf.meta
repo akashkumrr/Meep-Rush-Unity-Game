@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6980e63dc51198f4098f2b693e956ee5
+timeCreated: 1502873799
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gauss Jordan
+  fontNames:
+  - Gauss Jordan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 14dd91197bada2c4e837e438d85e7547
+timeCreated: 1502873785
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Headhunter
+  fontNames:
+  - Headhunter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f45107fb792357d4f90706d8ce87708c
+timeCreated: 1502873830
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sabril
+  fontNames:
+  - Sabril
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

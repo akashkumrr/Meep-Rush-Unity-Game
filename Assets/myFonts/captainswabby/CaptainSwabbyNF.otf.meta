@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 86bd45cd7bee6a04482370eb83e203d6
+timeCreated: 1502873803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Captain Swabby NF
+  fontNames:
+  - Captain Swabby NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8392fed56abeb67429f306423872bfd2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

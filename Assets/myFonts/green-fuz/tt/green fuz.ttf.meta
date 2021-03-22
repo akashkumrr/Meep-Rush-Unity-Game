@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8042d077e0ca206418923bea7d53a76e
+timeCreated: 1502873802
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Green Fuz
+  fontNames:
+  - Green Fuz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0be0d82dfdc5af74d93577f5df6b16f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

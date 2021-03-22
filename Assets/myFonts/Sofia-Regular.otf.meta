@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4f14d15a5daa774399af0f19ba4dab8
+timeCreated: 1500551361
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sofia
+  fontNames:
+  - Sofia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

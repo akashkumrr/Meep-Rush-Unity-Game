@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05a695726b0b82e479f582cd165f4d78
+timeCreated: 1502873780
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beat My Guest
+  fontNames:
+  - Beat My Guest
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e744520070d4ee6409217222edb7ad73
+timeCreated: 1502873828
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetidoodle by Ed T
+  fontNames:
+  - Helvetidoodle by Ed T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a7034119ca777648961fc39ebc5d197
+timeCreated: 1502873794
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Airstream NF
+  fontNames:
+  - Airstream NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

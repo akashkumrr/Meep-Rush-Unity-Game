@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d253f6d1d5ac56046ba4df3dae030003
+timeCreated: 1502873824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nightcap NF
+  fontNames:
+  - Nightcap NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bad96a33babcbd243b4e181c0bc85e6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

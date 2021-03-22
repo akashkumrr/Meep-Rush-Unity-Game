@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28b46e6e49729b34bb4a0938cf347739
+timeCreated: 1502873789
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HVD Poster
+  fontNames:
+  - HVD Poster
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

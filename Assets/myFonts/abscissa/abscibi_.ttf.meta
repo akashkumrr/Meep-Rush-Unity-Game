@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 96fdb48e9b7c0fc41a8b3c10f3690406
+timeCreated: 1502873808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abscissa
+  fontNames:
+  - Abscissa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 885cd760e740b5740bcd21c7363df7d8, type: 3}
+  - {fileID: 12800000, guid: 4b0fa7481f4454f4e8688163b4462195, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

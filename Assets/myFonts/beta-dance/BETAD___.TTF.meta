@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22a3e73c205fbc944b25807c5577fbae
+timeCreated: 1502873788
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beta Dance
+  fontNames:
+  - Beta Dance
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

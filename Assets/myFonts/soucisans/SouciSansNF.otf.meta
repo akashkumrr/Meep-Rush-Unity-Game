@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1dfa3fe5fde649f418bbeb65c355f35f
+timeCreated: 1502873787
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Souci Sans NF
+  fontNames:
+  - Souci Sans NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

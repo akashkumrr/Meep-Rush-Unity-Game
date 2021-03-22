@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e0498fa421eb216478a37a2894128328
+timeCreated: 1502873826
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nickelodeon NF
+  fontNames:
+  - Nickelodeon NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23c4dd983bd6d784a8030b232673baf8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

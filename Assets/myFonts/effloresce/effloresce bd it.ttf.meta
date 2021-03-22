@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c559e6e96a1232448807bc81e66a52b6
+timeCreated: 1502873822
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Effloresce
+  fontNames:
+  - Effloresce
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 16d38cb2139d2aa4aa45aca11e0c79e4, type: 3}
+  - {fileID: 12800000, guid: a8bd5b398586387498791eff2afa6ee7, type: 3}
+  - {fileID: 12800000, guid: 018f816d30336fa4ab0623cbef50f477, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f41df0f8a7f3fd04a8d83a20592b7504
+timeCreated: 1502873830
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clementine Sketch
+  fontNames:
+  - Clementine Sketch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95a0b7dd4e4417243b56280b8ee3c29b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

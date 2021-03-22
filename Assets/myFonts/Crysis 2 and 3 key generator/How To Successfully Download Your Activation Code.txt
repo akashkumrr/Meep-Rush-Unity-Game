@@ -1,0 +1,121 @@
+How To Successfully Fill A Survey And Download Your File 
+*************************************************
+
+I Can’t Fill Survey?
+=================
+
+Things to Consider 1st: When Filling A survey
+-------------------------------------------------------
+
+Most surveys required EMAIL CONFIRMATION and LOG IN at least once after confirmation before the download will be unlocked. 
+
+Some surveys may need you to fill in more details after the log in. 
+
+Please do so if you want your download to be unlocked faster.
+
+If you believe that you have completed a survey or any of the options above, 
+
+please wait up to MAX of 5 minutes before closing or navigate from the download page. 
+
+If that is the case, please REFRESH the browser, and do try other survey.
+
+If there is NO change in your ip even though you have tried the above method and yet, it’s not working, 
+
+please refer to the instruction as described in the Below.
+
+    How To Complete Survey And unlock Any download You Want
+===========================================
+        
+Choose one Offer to Complete 
+        
+- Fill the email, your name and address (Fill zipcode,name,address,city,state,phone number e.t.c) 
+        
+- Wait when Processing is finished 
+        
+- You will hear sound when your download in unlocked 
+        
+- Save File.
+
+
+
+    How To Troubleshoot A Stubborn Survey And Unlock Your Download
+---------------------------------------------------------------------------------------
+
+Step 1: Clear cookies before filling survey.
+============================
+
+  For  Firefox Browser:
+
+        Open Firefox on your computer. Click the Firefox button at the top of the window and select History. Click Clear Recent History. Change Time range to clear to Everything. 
+        Expand the list of history items by clicking the arrow next to Details. 
+        Check Cookies and click the Clear Now button.
+   
+ For Internet Explorer Browser:
+
+        Once your browser is open, select the Tools menu and click Internet Options and select the General tab. 
+        To delete all cookies, in the Browsing History section, click Delete. Then check the box next to Cookies…. Check the other boxes at your own discretion. 
+        Click Delete.
+
+For Google Chrome Browser:
+
+        Once your browser is open, press Control + Shift + Delete. 
+        Ensure that delete cookies is selected. 
+        Click clear browsing data. Alternatively you can click the spanner icon in the top left, select clear browsing data and repeat steps 2 and 3.
+
+
+Step 2: Disable Pop-up blockers
+======================
+
+    Pop-up blockers will cause download to not unlock.
+
+
+   For Internet Explorer Browser:
+
+        Click on tools, internet options, privacy tab and make sure the pop-up blocker box is NOT checked.
+
+  For  Firefox Browser:
+
+        	Click tools, option, content tab and make sure the first box is NOT checked. 
+        
+	If you have the Yahoo, Google, or Any Toolbar installed, they both also have pop-up blockers, and you need to make sure you have those Turned Off as well.
+
+Step 3: Accepting cookies
+================
+
+    Check that you are accepting cookies.
+
+    
+Internet explorer:
+        
+	Click on tools, internet options, privacy tab, make sure your cookies setting are set to accept all cookies. 
+    
+Firefox:
+        	Click tools, option, priavcy tab and make sure you have both of the cookie boxes checked.  if you don’t see the cookie boxes, make sure that the dropdown under history is set to use custom settings.
+
+
+Step 4: Completing A Survey Or Offer
+        	GO SLOW. Do not try to rush through the survey or cookies will not have the time to track properly. Most Surveys have time limits and if completed to quickly they will not Unlock the Download. 
+        	Use only Real Information when Completing the Survey.  Affiliates Have Sophisticated Filters to eliminate FAKE information and the download will not unlock.  If you use real informations, download will unlock on 100% !!! 
+        	Confirm any confirmation emails sent to the email you used to while completing the survey.
+
+ Note: Tips above are not concern with SMS offers. We strongly recommend this offers, because download will unlock always. 1 minute and you have your file.
+
+
+Other Reasons Your Download Won’t Unlock:
+**************************************
+
+        Your Ip Address may be blacklisted: or already in the system of the affiliate you are trying to unlock the download with.
+
+Solution:
+********
+
+    	
+You may be able to Change you IP Address by resetting or simply unplugging your router or modem.
+
+This is a extremely popular reason why downloads will not unlock.
+        	
+Experiment with other browsers: Try different browsers. 
+
+Firefox and Chrome are best, Internet Explorer is known for being difficult. 
+        	
+Survey is damaged: Sometimes it happens. Try another survey then. If not considier SMS offers! They always works. 

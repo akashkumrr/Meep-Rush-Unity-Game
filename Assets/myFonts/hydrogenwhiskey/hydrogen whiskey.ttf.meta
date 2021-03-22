@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39672fe496cbeb74a8f27b1a79d184bb
+timeCreated: 1502873792
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hydrogen Whiskey
+  fontNames:
+  - Hydrogen Whiskey
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

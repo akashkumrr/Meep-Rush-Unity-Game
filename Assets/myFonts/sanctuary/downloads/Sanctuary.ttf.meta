@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd74b6901fe08084a93fcdd98a87f7fb
+timeCreated: 1502873832
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sanctuary
+  fontNames:
+  - Sanctuary
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

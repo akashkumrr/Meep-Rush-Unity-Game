@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a504d69335b16204eb51abbce835fe3c
+timeCreated: 1502873810
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Daubmark
+  fontNames:
+  - Daubmark
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

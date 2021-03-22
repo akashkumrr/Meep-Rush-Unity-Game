@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d429a56613525fa4da2122298bdf4ba0
+timeCreated: 1502873824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Precious
+  fontNames:
+  - Precious
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

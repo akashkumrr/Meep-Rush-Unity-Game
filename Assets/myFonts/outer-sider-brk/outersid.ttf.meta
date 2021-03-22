@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 846ebbced2f9b8445b3cd5632c4dbab0
+timeCreated: 1502873803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Outer Sider (BRK)
+  fontNames:
+  - Outer Sider (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

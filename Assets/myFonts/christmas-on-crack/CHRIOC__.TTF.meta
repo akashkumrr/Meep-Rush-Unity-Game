@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a9fe4514bce804e4d81f98effda9c236
+timeCreated: 1502873812
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Christmas On Crack
+  fontNames:
+  - Christmas On Crack
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

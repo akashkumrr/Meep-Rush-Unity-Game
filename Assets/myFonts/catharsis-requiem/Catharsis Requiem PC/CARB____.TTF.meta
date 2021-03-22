@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 51ce15c01784afe4d9f1ce5638b38459
+timeCreated: 1502873796
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Catharsis Requiem
+  fontNames:
+  - Catharsis Requiem
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 481cf5f43e6934d46ae4ed4b01539033, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

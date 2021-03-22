@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0c05c093a775d8a4fb534e284b53aabf
+timeCreated: 1502873782
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EDB Wild Things
+  fontNames:
+  - EDB Wild Things
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

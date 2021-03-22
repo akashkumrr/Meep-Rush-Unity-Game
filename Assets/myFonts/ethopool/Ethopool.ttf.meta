@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0b065dba05b0fed44a5cd25041ad04b6
+timeCreated: 1502873781
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ethopool
+  fontNames:
+  - ethopool
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

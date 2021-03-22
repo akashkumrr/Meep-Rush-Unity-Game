@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ac8e48fc31638b459a7dac9efc5f68d
+timeCreated: 1502873787
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vicious Hunger Rotalic
+  fontNames:
+  - Vicious Hunger Rotalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

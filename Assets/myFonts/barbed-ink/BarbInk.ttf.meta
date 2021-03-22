@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf25cf6783fde6c4f9f41ee4a38c65b5
+timeCreated: 1502873821
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barbed Ink
+  fontNames:
+  - Barbed Ink
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

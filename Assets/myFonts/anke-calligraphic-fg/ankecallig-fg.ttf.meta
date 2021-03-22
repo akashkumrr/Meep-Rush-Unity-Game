@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cef841b371b7ef74887dcc79860051a3
+timeCreated: 1502873824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anke Calligraphic FG
+  fontNames:
+  - Anke Calligraphic FG
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

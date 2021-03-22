@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4bf095ec8185eb746add2617578aae44
+timeCreated: 1502873794
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: So Run Down
+  fontNames:
+  - So Run Down
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

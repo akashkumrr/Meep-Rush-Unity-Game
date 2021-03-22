@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92bc9c8a589df6049b4b19d64561e6e6
+timeCreated: 1502873807
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ALBUMME SMOOTH
+  fontNames:
+  - ALBUMME SMOOTH
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

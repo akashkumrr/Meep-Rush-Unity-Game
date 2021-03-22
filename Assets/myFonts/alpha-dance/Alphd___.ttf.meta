@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5a717a9d7bb37ba468d7c313da62f4f0
+timeCreated: 1502873797
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Dance
+  fontNames:
+  - Alpha Dance
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

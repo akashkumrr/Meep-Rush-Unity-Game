@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7d4373a56b4ba44c824f59f49a82602
+timeCreated: 1502873819
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tom's Handwriting
+  fontNames:
+  - Tom's Handwriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

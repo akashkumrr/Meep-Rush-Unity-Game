@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28b9bcd1829ef2849807905ca546e1cb
+timeCreated: 1502873789
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vicious Hunger Condensed Italic
+  fontNames:
+  - Vicious Hunger Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 308efed2465f5ed4b96726e43aeda780
+timeCreated: 1502873790
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Requiem
+  fontNames:
+  - Requiem
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

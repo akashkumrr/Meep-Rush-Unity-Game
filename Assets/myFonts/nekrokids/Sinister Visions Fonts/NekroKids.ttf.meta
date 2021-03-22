@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c46530b778bab1f4987a0d46d0a5eab0
+timeCreated: 1502873822
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NekroKids
+  fontNames:
+  - NekroKids
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

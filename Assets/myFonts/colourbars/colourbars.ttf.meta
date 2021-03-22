@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bba55de510b53234983bb2117e2cdb07
+timeCreated: 1502873820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colourbars
+  fontNames:
+  - Colourbars
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ce3adddf23bb9b4ab7bcb953f2dd168, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

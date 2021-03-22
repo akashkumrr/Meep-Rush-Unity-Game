@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 052b24adc551a1247afcebbcbbd4fb21
+timeCreated: 1502873780
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vicious Hunger Italic
+  fontNames:
+  - Vicious Hunger Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

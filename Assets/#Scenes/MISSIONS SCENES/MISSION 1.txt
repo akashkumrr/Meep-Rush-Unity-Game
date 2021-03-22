@@ -1,0 +1,42 @@
+ALL the variables to be set for different missions will be here shown :
+
+# MISSION 1 :
+
+- in PLATFROM GENERATOR
+	1. coin threshold = 50
+	2. distance bw max = 5
+    + line 160 to 179 commented  bcz in each mission i will set values by testing it
+    + line 85 to 106 commented bcz for a mission platform type will remain same  
+       BUT for endless mode one game can have diffrent type of same type 
+        for eg LIKE in simple endless mode NORMAL PLAT BUT PURPLE COLOR after it dies it must be of NORMAL type but different color
+    + in various missions you for normal plat you can assign it's different type like PURPLE BLUE CONCRETE' as Script will remain same so theres no risk involved in it
+    + line 139 to 154 commented as no of powerups unlocked depends upon 
+
+    3. powerup threshhold 50
+
+- in GAME MANAGER 
+	1. change netActive variable to really check whether one has internet connection active
+	2. set no. of lives to 0 zero
+	3. remove "lives" player pref as no longer needed  lines 130 to 139 commented
+
+- in MISSION MANAGER 
+	1. line 91 to 112 commented as AGAIN the run and coin objectives will be presetted by m for each mission
+	2. "orun" and "ocoin" player prefs no longer required anymore --- removed them successfully
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

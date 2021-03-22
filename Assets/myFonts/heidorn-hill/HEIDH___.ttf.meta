@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8747c936be3fe7b47a372350558f4138
+timeCreated: 1502873803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heidorn Hill
+  fontNames:
+  - Heidorn Hill
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

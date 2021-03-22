@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b74a4a5bcb28c6a469a8f9a07758ad46
+timeCreated: 1502873819
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phat Grunge Bold
+  fontNames:
+  - Phat Grunge Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
