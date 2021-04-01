@@ -1,6 +1,6 @@
-"# Meep-Rush-Unity-Game"
+# Meep-Rush-Unity-Game
 
-### A fast paced 2d endless platformer game where you try to beat your own highscore. The higher the speed more the score multiplier!!<br /><br />
+## A fast paced 2d endless platformer game where you try to beat your own highscore. The higher the speed more the score multiplier!!<br /><br />
 Built a parallax background moving system to give richer feel<br /><br />
 Implemented Slowmotion effect while dying, reviving and teleporting in game<br /><br />
 Developed an Object pooling system to reduce CPU usage and better in-game FPS<br /><br />
