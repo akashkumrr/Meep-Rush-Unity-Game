@@ -10,4 +10,4 @@
 * Object pooling system to reduce CPU usage and better in-game FPS<br />
 * Highscore system and developed a perk system which works on watching Ads giving player various bonus effects<br />
 * 4 different playing modes and a mission mode to unlock different worlds based on level progression<br />
-* *Shop feature based on in-game currency system to upgrade player and buy new cool perks<br />
+* Shop feature based on in-game currency system to upgrade player and buy new cool perks<br />
