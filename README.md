@@ -4,7 +4,7 @@
 
 ### Language - The project is developed in using Unity Engine's C\# scripting API<br /><br />
 
-### The Features of the project are : 
+### The features of the project are : 
 * Powerups and coins to unlock characters and different levels
 * Parallax background moving system to give richer feel<br />
 * Slowmotion effect while dying, reviving and teleporting in game<br />
